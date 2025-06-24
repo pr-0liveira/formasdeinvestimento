@@ -42,7 +42,7 @@ h1{
 }
 
 h2{
-    text-transform: bold;
+    font-weight: bold;
     text-transform: uppercase;
     font-size: 28px;
     padding: 20px;
@@ -54,6 +54,7 @@ h3{
     font-size: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-weight: bold;
 
 }
 
